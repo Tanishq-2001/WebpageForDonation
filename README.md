@@ -2,7 +2,7 @@
 ## Getting started
 
 
-This project is coded using `HTML`, `CSS`, `Bootstrap` and `jQuery`
+This project is coded using `HTML`, `CSS`, `Bootstrap` and `javaScript`
 
 ####  About me:
 
@@ -11,3 +11,5 @@ This project is coded using `HTML`, `CSS`, `Bootstrap` and `jQuery`
 
 
 [Github] https://github.com/Tanishq-2001/WebpageForDonation
+
+[Website Link] https://purple-cliff-09c233610.1.azurestaticapps.net
